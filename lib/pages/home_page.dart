@@ -1,3 +1,4 @@
+import 'package:coinbase_clone_flutter/widgets/coin_display.dart';
 import 'package:flutter/material.dart';
 
 import '../widgets/assets_view_header.dart';
@@ -24,7 +25,8 @@ class _HomePageState extends State<HomePage> {
           children: const [
             TopBar(),
             BalanceHeader(balance: 259.54),
-            AssetsViewHeader()
+            AssetsViewHeader(),
+            CoinDisplay()
           ],
         ),
       )),
