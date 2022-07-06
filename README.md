@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<br>State managemet: [Bloc](https://pub.dev/packages/flutter_bloc)
+State managemet: [Bloc](https://pub.dev/packages/flutter_bloc)
 <br>REST API : [Crypto Compare](https://min-api.cryptocompare.com/)
 
  Rate me ⭐
@@ -13,7 +13,8 @@ Thank you ☺
 
 |               Preview                |               UI App                 |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://github.com/anggaraputrapratama/coinbase_clone/blob/master/documentation/Coinbase%20App%20clone.gif) | ![w](https://github.com/anggaraputrapratama/coinbase_clone/blob/master/documentation/Coinbase%20App%20clone.png) |
+| ![d1](https://github.com/anggaraputrapratama/coinbase_clone/blob/master/documentation/Coinbase%20App%20clone.gif) | ![w1](https://github.com/anggaraputrapratama/coinbase_clone/blob/master/documentation/Coinbase%20App%20clone.png) |
+| ![d2](https://github.com/anggaraputrapratama/coinbase_clone/blob/master/documentation/Samsung%20A52%20Coinbase%20app%20clone.gif) | ![w2](https://github.com/anggaraputrapratama/coinbase_clone/blob/master/documentation/Samsung%20A52%20Coinbase%20app%20clone.png) |
 
 
 ## Platform
